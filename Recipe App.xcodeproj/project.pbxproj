@@ -114,6 +114,7 @@
 		5598F13E270F283E00EF2A79 /* Data */ = {
 			isa = PBXGroup;
 			children = (
+				5598F140270F2AC400EF2A79 /* recipes.json */,
 			);
 			path = Data;
 			sourceTree = "<group>";
@@ -121,7 +122,6 @@
 		5598F13F270F284D00EF2A79 /* Services */ = {
 			isa = PBXGroup;
 			children = (
-				5598F140270F2AC400EF2A79 /* recipes.json */,
 				5598F14A270F325600EF2A79 /* DataService.swift */,
 			);
 			path = Services;
